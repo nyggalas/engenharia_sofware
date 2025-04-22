@@ -1,1 +1,21 @@
+De acordo com o SWEBOK (Software Engineering Body of Knowledge), um bom produto de software deve ter as seguintes características desejáveis:
 
+ Funcionalidade: O software deve realizar as funções esperadas e atender às necessidades dos usuários.
+ Confiabilidade: O software deve ser capaz de funcionar corretamente e consistentemente, sem falhas ou erros.
+ Desempenho: O software deve ter um desempenho adequado, respondendo rapidamente às solicitações dos usuários e utilizando recursos de forma eficiente.
+ Segurança: O software deve proteger os dados e sistemas contra acessos não autorizados, violações e outras ameaças.
+nManutenibilidade: O software deve ser fácil de manter, atualizar e corrigir, minimizando os custos e esforços de manutenção.
+ Usabilidade: O software deve ser fácil de usar, intuitivo e acessível aos usuários, minimizando a curva de aprendizado e maximizando a produtividade.
+ Compatibilidade: O software deve ser compatível com diferentes plataformas, sistemas operacionais e outros softwares.
+ Escalabilidade: O software deve ser capaz de lidar com aumentos de carga e demanda, sem comprometer o desempenho ou a funcionalidade.
+ Portabilidade: O software deve ser capaz de ser executado em diferentes ambientes e plataformas, com mínimo esforço de adaptação.
+
+Essas características são fundamentais para garantir que um produto de software seja de alta qualidade, atenda às necessidades dos usuários e seja sustentável ao longo do tempo.
+
+Além disso, o SWEBOK também destaca a importância de considerar os seguintes aspectos:
+
+- Requisitos: O software deve atender aos requisitos funcionais e não funcionais definidos.
+- Testabilidade: O software deve ser projetado para ser testado e validado de forma eficaz.
+- Reutilização: O software deve ser projetado para ser reutilizado em outros projetos ou contextos.
+
+Ao considerar essas características e aspectos, os desenvolvedores de software podem criar produtos de alta qualidade que atendam às necessidades dos usuários e sejam sustentáveis ao longo do tempo.
